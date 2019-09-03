@@ -13,3 +13,5 @@ You'll also need to think of a way to display the score.
 
 
 --- /challenge ---
+
+![progress bar](images/m1-6.png)
