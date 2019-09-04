@@ -13,3 +13,10 @@ You'll also need to think of a way to display the score.
 
 
 --- /challenge ---
+
+![progress bar](images/m1-6.png)
+
+Click on the 'Click me' button to try the next project:
+
+<a href="hhttps://codeclub.org/en/projects-cc">
+<img src="images/Clickme.png">
