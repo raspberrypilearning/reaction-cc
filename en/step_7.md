@@ -16,7 +16,7 @@ You'll also need to think of a way to display the score.
 
 ![progress bar](images/m1-6.png)
 
-Click on the 'Click me' button to try the next project:
+Click on the 'Click me' button to complete the Plenary and then try a new module:
 
 <a href="https://codeclub.org/en/projects-cc">
 <img src="images/Clickme.png">
