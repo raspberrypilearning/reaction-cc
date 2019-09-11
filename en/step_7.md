@@ -18,5 +18,5 @@ You'll also need to think of a way to display the score.
 
 Click on the 'Click me' button to complete the Plenary and then try a new module:
 
-<a href="https://codeclub.org/en/projects-cc">
+<a href="https://codeclub.org/en/microbit1">
 <img src="images/Clickme.png">
